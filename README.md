@@ -1,4 +1,4 @@
-# Vehicle-Proximity-Notification-System
+# Vehicle-Proximity-Warning-System
 Detect only cars nearby and warn those cars to a driver by drawing red boxes on them. <br> Designed to support drivers in the driving environment at high speed with many cars, such as racing, track driving, and driving on the highway.
 <br>
 - Detect objects from a real-time video and Classify them dependent on proximity using a pre-trained YOLO model
